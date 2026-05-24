@@ -1,0 +1,5 @@
+This is a test document about artificial intelligence.
+AI is transforming industries worldwide.
+Machine learning helps computers learn from data.
+Natural language processing allows computers to understand human text.
+This technology is used in chatbots, search engines and translation.
